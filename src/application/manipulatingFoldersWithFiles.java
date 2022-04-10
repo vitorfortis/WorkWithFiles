@@ -26,7 +26,7 @@ public class manipulatingFoldersWithFiles {
 			System.out.println(file);
 		}
 		boolean success = new File(strPath + "\\subdir").mkdir();
-		System.out.println("Directory created  successfully" + success);
+		System.out.println("Directory created  successfully" +  success);
 		
 			
 		
